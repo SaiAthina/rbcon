@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 r2
+=======
+file in fb
+>>>>>>> 71da74d (commit)
